@@ -9,5 +9,3 @@ pip install requests
 # Make sure to have Python installed
 https://www.python.org/downloads/
 Make sure to check add to PATH when downloading.
-Download from https://github.com/glixzzy/discord-to-roblox
-Download ZIP, unpack ZIP file and run it.
